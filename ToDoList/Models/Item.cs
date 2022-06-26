@@ -22,5 +22,3 @@ namespace ToDoList.Models
     }
   }
 }
-
-//doing this to add gitignore
