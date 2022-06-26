@@ -1,6 +1,7 @@
 using System.Collections.Generic;
-namespace ToDoList.Models
-{
+
+namespace ToDoList.Models {
+  
   public class Item
   {
     public string Description { get; set; }
