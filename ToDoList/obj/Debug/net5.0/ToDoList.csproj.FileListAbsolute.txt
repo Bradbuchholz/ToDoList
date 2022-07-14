@@ -29,3 +29,4 @@
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Home/CreateForm.cshtml.g.cs
