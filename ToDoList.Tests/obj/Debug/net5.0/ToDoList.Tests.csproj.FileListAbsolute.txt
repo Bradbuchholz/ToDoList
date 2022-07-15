@@ -94,3 +94,8 @@
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ref/ToDoList.Tests.dll
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ToDoList.Tests.pdb
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ToDoList.Tests.genruntimeconfig.cache
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.dll
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.pdb
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.deps.json
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.runtimeconfig.json
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
