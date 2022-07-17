@@ -29,6 +29,11 @@
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
-/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/CreateForm.cshtml.g.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/DeleteAll.cshtml.g.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Show.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/New.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Show.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Home/FavoritePhotos.cshtml.g.cs
