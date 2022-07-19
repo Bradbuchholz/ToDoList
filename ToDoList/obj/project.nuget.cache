@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8SQuc+e3rM0pi3Grq3LhDtaO7N3ymMFCtIIvCeGMNCtS09e+xh6rqpIHJxPikinCzCQeo7HRMZwu7HzHNmmSqg==",
+  "dgSpecHash": "iBonxet3yme37XDLzB3KBhqw+B9DwvSWP0tqDZIyEBNrjVcCRQXjeMJa/N32+5nvS+orzUWTCrYpeXmkZ4ybxQ==",
   "success": true,
   "projectFilePath": "/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/ToDoList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bradbookpro/.nuget/packages/mysqlconnector/0.69.0/mysqlconnector.0.69.0.nupkg.sha512"
+  ],
   "logs": []
 }
