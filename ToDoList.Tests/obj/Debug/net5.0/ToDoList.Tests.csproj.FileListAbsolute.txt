@@ -99,3 +99,4 @@
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.deps.json
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.runtimeconfig.json
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/MySqlConnector.dll

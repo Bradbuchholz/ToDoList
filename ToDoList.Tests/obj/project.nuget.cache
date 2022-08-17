@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+rjl7kDVOZfqs1WiU+OmaGdZHm8IlSSqVAkHsF3z27b5VZCZp7aeenHcVq45WqvIeVQVovIW9pLeXa47zi7dQ==",
+  "dgSpecHash": "qohMsnYBIdKFVqWEE5V84Fo+x69dqrE3F88tXYhrW0S5AYWLilw3dxtP7DJZKIPvzoEah74d7tLy4FVV1BeE1Q==",
   "success": true,
   "projectFilePath": "/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/Users/bradbookpro/.nuget/packages/microsoft.win32.registry/4.0.0/microsoft.win32.registry.4.0.0.nupkg.sha512",
     "/Users/bradbookpro/.nuget/packages/mstest.testadapter/1.3.2/mstest.testadapter.1.3.2.nupkg.sha512",
     "/Users/bradbookpro/.nuget/packages/mstest.testframework/1.3.2/mstest.testframework.1.3.2.nupkg.sha512",
+    "/Users/bradbookpro/.nuget/packages/mysqlconnector/0.69.0/mysqlconnector.0.69.0.nupkg.sha512",
     "/Users/bradbookpro/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/bradbookpro/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/Users/bradbookpro/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
