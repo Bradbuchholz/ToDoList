@@ -52,3 +52,5 @@
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Delete.cshtml.g.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Details.cshtml.g.cs
 /Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Edit.cshtml.g.cs
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/bradbookpro/Desktop/School-Projects/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/AddCategory.cshtml.g.cs
